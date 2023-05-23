@@ -1,6 +1,9 @@
-# untitled
+# Flipkart_clone ui
 
 A new Flutter project.
+
+sample:
+![image](https://github.com/coderbaba0/flipkart_clone/assets/128967105/8d325cd2-0639-4c8e-9c0a-afbdc7c9eff7)
 
 ## Getting Started
 
